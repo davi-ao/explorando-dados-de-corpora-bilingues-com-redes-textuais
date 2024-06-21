@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/818298430.svg)](https://zenodo.org/doi/10.5281/zenodo.12206860)
+
 # Explorando dados de corpora bilíngues com redes textuais
 
 Davi Alves Oliveira (UNEB), Hernane Borges de Barros Pereira (UNEB, Senai Cimatec)
